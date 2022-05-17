@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\leraz\Desktop\OP\1lab\c++ Select CMakeLists.txt
